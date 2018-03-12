@@ -47,7 +47,7 @@ nav a {
 
 header {
   background-color: #1D4E69;
-  background-image: url("images/city-scape.svg");
+  background-image: url("city-scape.svg");
   color: white;
   background-color: rgb(32, 101, 136);
   background-size: cover;
@@ -217,7 +217,7 @@ link-2 {
 
 .NPM-description {
   background-color: black;
-  background-image: url("images/forklift.svg");
+  background-image: url("forklift.svg");
   background-size: cover;
   height: 400px;
   margin-top: -20px
